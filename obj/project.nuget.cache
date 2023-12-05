@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "M6pQRx7KyYsOYV+sxe9R3jZTTDSa/ri5nyXWlGGosm2Otxd1dtg5nvQurJoZOtG0MI76/DzRPLeryCjQug5HLQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\HP\\Documents\\Applications projects\\Hotel\\Hotel.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "Dapper"
+    }
+  ]
+}
